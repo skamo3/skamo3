@@ -1,4 +1,14 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=40&desc=skamo's%20Github!&descSize=25)  
+
+<!--
+<div align="center">
+  test text
+  asdqwe
+</div>
+
+<img alt="Test" src="">
+-->
 
 <!--
 **skamo3/skamo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
