@@ -1,26 +1,19 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=40&desc=skamo's%20Github!&descSize=25)  
-
-<!--
 <div align="center">
-  test text
-  asdqwe
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=40&desc=skamo's%20Github!&descSize=25)  
+  
+  <p>🎮Game Client Develop🎮</p>
+  <p>
+  <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
+  <a href="https://skamo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Storyblok&logoColor=white"/></a>
+  <a href="https://github.com/skamo3/" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+  <a href="https://github.com/skamo3/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></a>
+  <a href="https://github.com/skamo3/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <a href="https://github.com/skamo3/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+  </p>
+  <p>
+  <a href="https://github.com/skamo3/" target="_blank"><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
+  <a href="https://github.com/skamo3/" target="_blank"><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>
+  </p>
 </div>
-
-<img alt="Test" src="">
--->
-
-<!--
-**skamo3/skamo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
