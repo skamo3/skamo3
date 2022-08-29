@@ -3,7 +3,6 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Welcome&fontSize=80&animation=fadeIn&fontAlignY=40&desc=skamo's%20Github!&descSize=25)  
   
-  <p>🎮Game Client Develop🎮</p>
   <p>
   <a href="https://42seoul.kr/seoul42/main/view" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
   <a href="https://skamo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Storyblok&logoColor=white"/></a>
