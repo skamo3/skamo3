@@ -43,5 +43,7 @@
   <a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.shields.io/badge/UnrealEngine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>
   <a href="https://www.raspberrypi.com/" target="_blank"><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
   <a href="https://www.qt.io/" target="_blank"><img src="https://img.shields.io/badge/Qt-41CD520?style=flat-square&logo=Qt&logoColor=white"/></a>
+  <a href="https://www.github.com/" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   </p>
 </div>
