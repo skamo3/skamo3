@@ -5,18 +5,20 @@
 </div>
 
 <div style="display: flex;">
-  <img src="https://user-images.githubusercontent.com/54701846/218514918-2bf8248e-e1ac-4d33-bfcb-6682a57d33c3.png" alt="image" width="40%" style="flex:1; margin-right: 1px;">
-  <ul style="flex: 2; padding: 30px; list-style-type: square;">
-    <h2 style="font-size: 60px; margin-top: 10px; margin-bottom: 10px;">Kim Joochan</h2>
-    <li link="" style="font-size: 20px; margin-top: 25px; margin-bottom: 10px;">joockim</li>
+  <img src="https://user-images.githubusercontent.com/54701846/218514918-2bf8248e-e1ac-4d33-bfcb-6682a57d33c3.png" alt="image" style="flex: 1; width:40%">
+  <div style="flex: 2;">
+    <h2 style="font-size: 120px; margin-top: 10px; margin-bottom: 10px;">Kim Joochan</h2>
+    <ul style="flex: 2; padding: 30px; list-style-type: square;">
     <li style="font-size: 20px; margin-top: 25px; margin-bottom: 10px;">
         <a href="https://github.com/skamo3">Github</a>
     </li>
-    <li style="font-size: 20px; margin-top: 25px; margin-left: 15px; margin-bottom: 10px;">
+    <li style="font-size: 20px; margin-top: 25px; margin-bottom: 10px;">
         <a href="https://www.linkedin.com/in/joochan-kim-831051232/">LinkedIn</a>
     </li>
-  </ul>
+    </ul>
+  </div>
 </div>
+
 
 ---------------------------------------------------------
 
