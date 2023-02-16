@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Joochan&fontSize=80&animation=fadeIn&fontAlignY=40&desc=SEA:ME%20Introduce%20page&descSize=25)  
 </div>
 
-<div style="display: flex;">
+<!-- <div style="display: flex;">
   <img src="https://user-images.githubusercontent.com/54701846/218514918-2bf8248e-e1ac-4d33-bfcb-6682a57d33c3.png" alt="image" style="flex: 1; width:40%">
   <div style="flex: 2;">
     <h2 style="font-size: 120px; margin-top: 10px; margin-bottom: 10px;">Kim Joochan</h2>
@@ -17,8 +17,7 @@
     </li>
     </ul>
   </div>
-</div>
-
+</div> -->
 
 ---------------------------------------------------------
 
