@@ -21,12 +21,6 @@
 
 ---------------------------------------------------------
 
-# Projects
-
-## [SEA:ME Project_1. Assemble the Pi-Racer](https://github.com/skamo3/SEA-ME-Project-1)
-## [SEA:ME Project_2. DIC with CAN Bus & D-Bus](https://github.com/skamo3/SEA-ME-Project-2)
-## [SEA:ME Project_3. Make own OS with Yocto](https://github.com/skamo3/SEA-ME-Project-3)
-
 
 ------------------------------
 # Skills & Tools
