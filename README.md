@@ -20,6 +20,16 @@
 </div> -->
 
 ---------------------------------------------------------
+# Projects
+
+## [Project Hola](https://github.com/Good-Hola/Hola)
+Game making project with Unreal-Engine in SmileGate Challenge
+
+## [SEA:ME Program](https://github.com/SEA-ME/SEA-ME-Students/blob/PilotFeb2023/Joochan/joochan.md)
+### [Project1. Assemble the Pi-Racer](https://github.com/skamo3/SEA-ME-Project-1)
+### [Project2. Digital Instrument Cluster](https://github.com/skamo3/SEA-ME-Project-2)
+### [Project3. Yocto](https://github.com/skamo3/SEA-ME-Project-3)
+
 
 
 ------------------------------
