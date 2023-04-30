@@ -7,6 +7,12 @@
 ---------------------------------------------------------
 [![trophy](https://github-profile-trophy.vercel.app/?username=skamo3&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ---------------------------------------------------------
+# Introduction 👋👋
+- I'm a developer that toward new future.
+- I'm a game client developver and learning how to make awesome and amazing game.
+- I'm interested to Unreal-Engine. and I am following the future of the game and graphic industry.
+
+---------------------------------------------------------
 # Projects
 
 ## [Project Hola](https://github.com/Good-Hola/Hola)
