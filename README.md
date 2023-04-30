@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Joochan&fontSize=80&animation=fadeIn&fontAlignY=40&desc=SEA:ME%20Introduce%20page&descSize=25)  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=270&section=header&text=Joochan&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Developer%20Moving%20Toward%20New%20Future&descSize=25)  
 </div>
 
 <!-- <div style="display: flex;">
